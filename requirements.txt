@@ -1,0 +1,17 @@
+langchain
+langchain-core
+langchain_community
+langchain-openai
+langchain-groq
+langchain-google-genai
+langchain-chroma
+langchain-huggingface
+langchain-text-splitters
+
+ipykernel
+chromadb
+pypdf
+python-dotenv
+notebook
+sentence-transformers
+streamlit
